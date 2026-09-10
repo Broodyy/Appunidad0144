@@ -292,8 +292,8 @@
                         android:text="@string/strSalir"
                         android:textStyle="bold"
                         android:textColor="@color/red">
-
                     </TextView>
+
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>
