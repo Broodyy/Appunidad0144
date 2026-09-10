@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">appUnidad0144</string>
+    <string name="strTitulo">Mi primer Applicación Movil</string>
+    <string name="strNombre">¿ Cuál es tu nombre ?</string>
+    <string name="strSalir">Salir</string>
+    <string name="strLimpiar">Limpiar</string>
+    <string name="strSaludar">Dar Click</string>
+    <string name="strAlumno">Gabriel Antonio Sánchez</string>
+    <string name="strMatricula">2025030457</string>
+    <string name="strMateria">Programación móvil</string>
+    <string name="strHola">Hola</string>
+    <string name="strConvGrad">Convertidor</string>
+    <string name="strImc">IMC</string>
+    <string name="strConMoneda">Moneda</string>
+    <string name="strCotizacion">Cotización</string>
+    <string name="strPreExam1">Pre examen 1</string>
+    <string name="strExamen">Examen I</string>
+
+
+
+</resources>
